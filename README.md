@@ -16,7 +16,7 @@
 
 🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@venomstring_bot](https://t.me/venomstring_bot)
+[@shubham_w_712](https://t.me/mastibesti)
 
 
 
