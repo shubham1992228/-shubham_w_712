@@ -1,8 +1,8 @@
 <h2 align="centre"> venom ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 
-### 𝗩𝗘𝗡𝗢𝗠 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
+### 𝗦𝗛𝗨𝗕𝗛𝗔𝗠 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/venom_Team1"><img src="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/mastibesti"><img src="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -23,7 +23,7 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/V3N0M_0P/38)
+[CLICK HERE](https://t.me/mastibesti)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
@@ -58,5 +58,5 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/V3NOM_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/V3N0M_0P"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/mastibesti"><img src="https://t.me/mastibesti"></a> <a href="https://t.me/mastibesti"><img src=" https://t.me/mastibesti"></a>
 
