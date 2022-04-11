@@ -1,9 +1,9 @@
 {
     "name": "venommusic",
-    "logo": "https://telegra.ph/file/bba6f800202a4c6c08ff6.png",
+    "logo": "https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC",
+    "repository": "https://github.com/shubham1992228/-shubham_w_712",
     "stack": "container",
     "env": {
         "API_ID": {
