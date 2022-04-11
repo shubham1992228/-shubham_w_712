@@ -18,7 +18,7 @@
 
 [@shubham_w_712](https://t.me/mastibesti)
 
-
+𝗢𝗪𝗡𝗘𝗥 (@shubham_w_712)
 
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
