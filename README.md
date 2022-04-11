@@ -2,7 +2,7 @@
 
 ### 𝗩𝗘𝗡𝗢𝗠 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/venom_Team1"><img src="https://telegra.ph/file/e7cefcd224372e2aed239.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/venom_Team1"><img src="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -47,12 +47,12 @@
 
 ### Deploy To Railway
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/shubham1992228/-shubham_w_712=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/shubham1992228/-shubham_w_712)
 
 
 
