@@ -33,7 +33,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/bcebfc264020162d0f37c.png",
+        photo=f"https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ 𝙎𝙪𝙥𝙚𝙧𝙁𝙖𝙨𝙩 𝙑𝘾 𝙁𝙪𝙘𝙠𝙚𝙧 
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
@@ -58,7 +58,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "venom"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/55d8a6f1a9b87eaba142f.png",
+        photo=f"https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -74,13 +74,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/55d8a6f1a9b87eaba142f.png",
+        photo=f"https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/VENOMxCRAZY9/VENOMxOPxMUSIC")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/shubham1992228/-shubham_w_712")
                 ]
             ]
         ),
