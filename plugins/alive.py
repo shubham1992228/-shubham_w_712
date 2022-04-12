@@ -43,11 +43,11 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ repo ❱ ➕", url=f"https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC"),
-                        InlineKeyboardButton("• Cʜᴀɴɴᴇʟ", url=f"https://t.me/v3n0m_0p"),
-                      InlineKeyboardButton("• Group", url=f"https://t.me/v3nom_support"),
+                        "➕ ❰ repo ❱ ➕", url=f"https://github.com/shubham1992228/-shubham_w_712"),
+                        InlineKeyboardButton("• Cʜᴀɴɴᴇʟ", url=f"https://t.me/mrshubhammusic"),
+                      InlineKeyboardButton("• Group", url=f"https://t.me/mastibesti"),
                   ],[
-                      InlineKeyboardButton("CREATER", url=f"https://t.me/venomXcrazy")
+                      InlineKeyboardButton("CREATER", url=f"https://t.me/mastibesti")
                 ]
                 
            ]
@@ -55,7 +55,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "venom"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "shubham"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
@@ -64,7 +64,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/girls_boys_chatting10")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/mastibesti")
                 ]
             ]
         ),
