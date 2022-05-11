@@ -2,7 +2,7 @@
 
 ### 𝗦𝗛𝗨𝗕𝗛𝗔𝗠 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/mastibesti"><img src="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg" width="300"></a></p>
+<p align="center"><a href=" https://t.me/SPARKYWORLDGROUPCHAT"><img src="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -16,14 +16,14 @@
 
 🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@shubham_w_712](https://t.me/mastibesti)
+[https://t.me/SPARKYWORLDGROUPCHAT)
 
 𝗢𝗪𝗡𝗘𝗥 (@shubham_w_712)
 
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/mastibesti)
+[CLICK HERE](https://t.me/SPARKYWORLDGROUPCHAT)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
